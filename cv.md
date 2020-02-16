@@ -87,4 +87,24 @@ I work on developing open sourse Bootsrap snippets library, including different 
  
 &nbsp;
 
+7. Education: 
+ 
+ Course name | was held by | time
+------------ | ------------- | -------------
+**Front-end/JavaScript** | RSSchool | 2020, January - current time
+Blockchain Development | Ivan on Tech Academy | 2019, August - current time
+International SEO | Webpromoexperts | 2019, July - August 
+**Python Core** | SoftServe IT Academy Lviv | 2019, January - February
+**HTML5 App Development** | SoftServe IT Academy Lviv | 2018, June - July
+English Language | Ivan Franko National University of Lviv | 2000 - 2005
+
+&nbsp;
+
+8. Languages:
+
+English - Upper Intermediate
+Polish - Basic 
+Russian - Upper Intermediate
+Ukrainian - Native
+
 
