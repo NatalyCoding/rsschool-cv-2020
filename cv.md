@@ -39,4 +39,52 @@ I beleive that passion and hard work are keys to success. And the best way to do
 
 &nbsp;
 
+5. Code Examples: 
+
+I work on developing open sourse Bootsrap snippets library, including different site blocks, like this navbar, for example:
+
+    `<nav class="navbar navbar-expand-sm   navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item dropdown dmenu">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+              Our Service
+            </a>
+            <div class="dropdown-menu sm-menu">
+              <a class="dropdown-item" href="#">service1</a>
+              <a class="dropdown-item" href="#">service2</a>
+              <a class="dropdown-item" href="#">service3</a>
+            </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Call</a>
+            </li>
+          </ul>
+          <div class="social-part">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </div>
+        </div>
+     </nav>`
+     
+ 
+
+6. Experience: In my spare time I like to build small side projects to test new technologies.
+ 
+&nbsp;
+
 
