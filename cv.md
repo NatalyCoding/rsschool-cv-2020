@@ -102,9 +102,9 @@ English Language | Ivan Franko National University of Lviv | 2000 - 2005
 
 8. Languages:
 
-English - Upper Intermediate
-Polish - Basic 
-Russian - Upper Intermediate
-Ukrainian - Native
+- English - Upper Intermediate
+- Polish - Basic 
+- Russian - Upper Intermediate
+- Ukrainian - Native
 
 
