@@ -18,7 +18,6 @@ body {
     display: grid;
     grid-template-areas: "sidebar" "content" "footer";
     grid-template-columns: 1fr;
-    grid-template-rows: 70px 800px 120px;
     box-shadow: 1px 1px 5px 2px rgba(166, 159, 166, 1);
 }
 
@@ -35,9 +34,9 @@ body {
 .sidebar nav ul {
     padding-right: 2rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     list-style-type: none;
 }
 
